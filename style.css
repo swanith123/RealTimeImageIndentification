@@ -1,0 +1,55 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 25px;
+    color: black;
+  }
+  .heading_div
+  {
+    float: none;
+    padding: 10px;
+    background: rgb(255, 255, 255) ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .heading_div2
+  {
+    font-size: 18px;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  .result_para_tag span{
+white-space: pre-line;
+  }
+
+  body{
+    font-family: 'Cabin', sans-serif;
+  }
+
+  .copy_right_footer{
+    font-size: 20px;
+    width: 100%;
+    background-color: paleturquoise;
+    color:rgb(0, 0, 0);
+    bottom: 0;
+    position: fixed;
+    line-height: 3;
+    text-align: center;
+    border: 4px solid orangered;
+  }
+
+  canvas{
+    border: 4px solid orangered;
+    box-shadow: 5px 5px 5px grey;
+    background-color:white;
+    margin-top: 75px;
+  }
+ 
